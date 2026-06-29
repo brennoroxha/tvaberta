@@ -1,0 +1,6 @@
+{
+  "name": "Meu App Android",
+  "description": "Um aplicativo Android limpo e moderno com Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
